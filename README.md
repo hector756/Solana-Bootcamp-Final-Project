@@ -10,7 +10,7 @@ In this project, I have created an NFT on Solana Blockchain. All boilerplate cod
 
 # Build and Deployment
 
--Build the contract: Navigate to "program" directory "cargo build-sbf".
+-Build the contract: Navigate to "program" directory '''cargo build-sbf'''.
 
 -Set your config file to connect to devnet: "solana config set --url devnet".
 
