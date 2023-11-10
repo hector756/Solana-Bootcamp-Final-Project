@@ -10,12 +10,12 @@ In this project, I have created an NFT on Solana Blockchain. All boilerplate cod
 
 # Build and Deployment
 
--Build the contract: Navigate to "program" directory ```cargo build-sbf```.
+-Build the contract: Navigate to ```program``` directory ```cargo build-sbf```.
 
--Set your config file to connect to devnet: "solana config set --url devnet".
+-Set your config file to connect to devnet: ```solana config set --url devnet```.
 
--Build and Deploy the Contract: "Build and Deploy" the Contract, Save the programID.
+-Build and Deploy the Contract: ```Build and Deploy``` the Contract, Save the programID.
 
--Download Dependencies: Navigate to "program_client" directory "yarn install" and also "yarn add @solana/spl-token".
+-Download Dependencies: Navigate to ```program_client``` directory ```yarn install``` and also ```yarn add @solana/spl-token```.
 
--Run app.ts: "npx ts-node app.ts <YOUR_PROGRAM_ID>". 
+-Run app.ts: ```npx ts-node app.ts <YOUR_PROGRAM_ID>```. 
